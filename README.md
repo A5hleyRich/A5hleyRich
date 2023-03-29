@@ -1,5 +1,3 @@
-### Hi there, I'm Ashley 👋
+### Hey, I’m Ashley.
 
-I’m a Laravel and Vue.js developer based in the West Midlands, England. I work for [Delicious Brains](https://deliciousbrains.com/), building [SpinupWP](https://spinupwp.com/). Before joining Delicious Brains, I served in the Royal Air Force as an ICT Technician.
-
-I'm the founder of a [simple, privacy-focused comment system](https://getreplybox.com), called ReplyBox and occasionally I write about [hosting WordPress and WordPress performance](https://spinupwp.com/blog/). 
+I'm a Laravel artisan and systems administrator based in the West Midlands, UK. I’m the co-founder of DeploymentHawk, the [all-in-one site deployment monitoring tool](https://deploymenthawk.com/), and I regularly write about [sysadmin and server management](https://sysadminfordevs.com/).
